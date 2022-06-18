@@ -1,11 +1,12 @@
 project:
   type: book
+  execute-dir: project # Use project root as working dir
 
 book:
   title: "Radiology Notes"
   author: "Kittipos Sirivongrungson"
   date: "4/16/2022" # `today` for current date when render
-  #site-url: your-site-url
+  site-url: https://radio-notes-lightbridge.netlify.app
   repo-url: https://github.com/Lightbridge-KS/radio-notes
   chapters:
     - index.qmd
@@ -22,7 +23,7 @@ format:
       dark: solar
   pdf:
     documentclass: scrreprt
-    include-in-header: "assets/pre-tex/thai-preamble.tex"
+    include-in-header: "assets/pre-tex/thai-preamble.tex" # Thai preamble
 
 
 # freeze computational output ? (see: https://quarto.org/docs/projects/code-execution.html#freeze)
