@@ -1,4 +1,4 @@
 # Radiology Notes
 
-My radiology notes, using [Quarto Book](https://quarto.org/docs/reference/projects/books.html) deployed via Netlify.
+My radiology notes, using [Quarto Book](https://quarto.org/docs/reference/projects/books.html) deployed via [Netlify](https://radio-notes-lightbridge.netlify.app).
 
