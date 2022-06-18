@@ -5,9 +5,10 @@ project:
 book:
   title: "Radiology Notes"
   author: "Kittipos Sirivongrungson"
-  date: "4/16/2022" # `today` for current date when render
+  date: today # `today` for current date when render
   site-url: https://radio-notes-lightbridge.netlify.app
   repo-url: https://github.com/Lightbridge-KS/radio-notes
+  repo-actions: edit
   chapters:
     - index.qmd
     - intro.qmd

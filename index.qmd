@@ -1,9 +1,19 @@
-# Preface {.unnumbered}
+---
+description-meta: |
+  This is my notes on radiology resident training at the Department of Diagnostic and Therapeutic Radiology, Faculty of Medicine, Ramathibodi Hospital.
+---
 
-สวัสดี This is a Quarto book.
+## About {.unnumbered}
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+::: {.callout-note appearance="simple"}
 
-```{r}
-1 + 1
-```
+This is my field notes on my training as a resident in Diagnostic Radiology Department.
+:::
+
+
+::: {.callout-warning appearance="simple"}
+
+Please note that the contents of this notebook are during development and subject to change.
+:::
+
+
