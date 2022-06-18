@@ -2,3 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
+
+/.quarto/
+
+# Ignore all contents in _book 
+/_book/**
+
+# But not PDF file in _book
+!/_book/*.pdf

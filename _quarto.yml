@@ -2,11 +2,11 @@ project:
   type: book
 
 book:
-  title: "Book Template"
-  author: "Jane Doe"
+  title: "Radiology Notes"
+  author: "Kittipos Sirivongrungson"
   date: "4/16/2022" # `today` for current date when render
   #site-url: your-site-url
-  #repo-url: your-repo-url
+  repo-url: https://github.com/Lightbridge-KS/radio-notes
   chapters:
     - index.qmd
     - intro.qmd
@@ -17,9 +17,12 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo #zephyr
+      dark: solar
   pdf:
     documentclass: scrreprt
+    include-in-header: "assets/pre-tex/thai-preamble.tex"
 
 
 # freeze computational output ? (see: https://quarto.org/docs/projects/code-execution.html#freeze)
