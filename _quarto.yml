@@ -11,7 +11,7 @@ book:
   repo-actions: edit
   chapters:
     - index.qmd
-    - intro.qmd
+    - contents/ultrasound.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -21,10 +21,13 @@ format:
     theme: 
       light: cosmo #zephyr
       dark: solar
-  pdf:
-    documentclass: scrreprt
-    include-in-header: "assets/pre-tex/thai-preamble.tex" # Thai preamble
+  docx: default
+  # pdf:
+  #   documentclass: scrreprt
+  #   include-in-header: "assets/pre-tex/thai-preamble.tex" # Thai preamble
 
+execute: 
+  echo: false
 
 # freeze computational output ? (see: https://quarto.org/docs/projects/code-execution.html#freeze)
 #freeze: auto
