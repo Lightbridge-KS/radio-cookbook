@@ -2,11 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-
+.DS_Store
 /.quarto/
-
-# Ignore all contents in _book 
+# Ignore all contents in _book
 /_book/**
-
 # But not PDF file in _book
 !/_book/*.pdf
