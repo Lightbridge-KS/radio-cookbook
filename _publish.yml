@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 6f63b12d-0fee-4a1f-b5e4-7eeae4c3f419
+      url: 'https://radio-notes-lightbridge.netlify.app'
