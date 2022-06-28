@@ -11,6 +11,7 @@ book:
   repo-actions: edit
   chapters:
     - index.qmd
+    - contents/style.qmd
     - contents/ultrasound.qmd
     - references.qmd
 

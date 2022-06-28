@@ -145,4 +145,124 @@ if(knitr::is_html_output()) {
 
 
 
+## Abdo Normal 
 
+### Normal U/S WA
+
+
+**FINDINGS:** 
+
+**Liver:** Normal size and parenchymal echogenicity. No focal lesion. 
+
+**Biliary system:** CBD size ___ mm. No intrahepatic ductal dilatation. 
+
+**Gallbladder:** `[Well | Partially]`-distended gallbladder. No stone or mass.
+
+**Spleen:** Normal in size. 
+
+**Pancreas:** Visualized portions are unremarkable.
+
+**Kidneys:** Normal size and parenchymal echogenicity of both kidneys. No stone, hydronephrosis or solid mass. 
+
+**Urinary bladder:** No stone or mass. 
+
+**Aorta:** Normal caliber. 
+
+**Peritoneum:** No free fluid. 
+
+(Choose one)
+
+**Prostate gland:** Normal size, measuring ___ ml in volume. 
+
+**Uterus:** Unremarkable.
+
+**Ovaries:** `[Normal size of | Non-visualized]` both ovaries. No gross adnexal mass. 
+
+
+**IMPRESSION:** [TODO]
+
+
+### Normal U/S KUB
+
+**FINDING:**
+
+**Right kidney:** Normal size and parenchymal echogenicity, measuring about _ x _ x _ cm. No stone or hydronephrosis. 
+
+**Left kidney:** Normal size and parenchymal echogenicity, measuring about _ x _ x _ cm. No stone or hydronephrosis.
+
+**Bladder:** Well-distended urinary bladder without stone or mass. 
+
+**Uterus:** Endometrial thickness measures about ___ mm. 
+
+**Ovaries and adnexae:** Normal size of both ovaries.
+
+**Others:** No free fluid. 
+
+## Abdo Disease 
+
+### Fatty Liver
+
+**Liver:** Normal size and diffusely increased parenchymal echogenicity of the liver. 
+
+
+- **(Moderate):** + with imparied visualization of hepatic vasculature, suggesting of moderate degree fatty liver disease.
+
+- **(Focal fat sparing):** + A geographic hypoechoic lesion at periportal region, suggestive of focal fat sparing. 
+
++ No focal lesion. 
+
+**IMPRESSION:** 
+
+- `[Mild | Moderate | Severe]` degree fatty liver disease without focal lesion 
+- Otherwise, unremarkable
+
+### Gall Stone
+
+**Gallbladder and biliary system:** A ???-cm gallstone. No gallbladder wall thickening or pericholecystic fluid. Common bile duct size ___ mm. No intrahepatic ductal dilatation. 
+
+**IMPRESSION:** 
+
+- A ???-cm gallstone without evidence of cholecystitis 
+- Otherwise, unremarkable
+
+
+### Dilate CBD
+
+**Biliary system:** Dilated CBD measures about ___ mm 
+
+
+- **(Not seen cause):** + without demonstrable cause of obstruction. No intrahepatic ductal dilatation. 
+
+
+### Myoma & Cyst
+
+**Uterus:** 
+
+-   __ of a ? x ? x ?-cm `[intramural | submucosal | subserous]` myoma.
+
+-   Endometrial thickness is measured about __ mm. 
+
+**Ovaries and adnexae:** Normal size of ___ ovaries. A ???-cm cystic lesion at right adnexa, probably functional cyst or endometriotic cyst.
+
+## Thyroid Template
+
+### Normal Thyroid
+
+**US OF THE THYROID** 
+
+**FINDINGS:**
+
+**Thyroid:** 
+
+**Right lobe:** Normal size and homogeneous echogenicity. Size = _ x _ x _ cm. No mass. 
+
+**Left lobe:** Normal size and homogeneous echogencity. Size = _ x _ x _ cm. No mass. 
+
+**Isthmus:** Thickness = ___ mm. 
+
+**Cervical lymph nodes:** No enlargement. 
+
+**IMPRESSION:**
+
+- [TODO]
+- No cervical lymphadenopathy

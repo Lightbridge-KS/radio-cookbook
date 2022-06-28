@@ -1,0 +1,46 @@
+# Style Guide
+
+## Measure Size
+
+-   `?-unit object`: e.g., A 4.2-cm gallstone
+
+-   `object size ___ unit`: e.g., Common bile duct size 4.4 mm
+
+-   `Size = ___ `: e.g.
+    -   **Isthmus:** Thickness = 2.0 mm. 
+
+-   `object, measuring about ___ unit`: e.g.
+    -   **Left kidney:** Normal size and parenchymal echogenicity, measuring about 11.6 x 5.0 x 4.2 cm. 
+
+
+
+**Note:** abbreviation of unit *do not* requires period (e.g., `cm`, `mm`, `ml`).
+
+## Size Change
+
+**Full**
+
+-   `[increase | decrease | No significant change]` (in size) of 🤔
+
+**Abbreviated**
+
+-   No changed of 🤔 at ...
+
+
+## New Lesion
+
+-   Newly seen a 🤔 at ⛰, ... 
+
+- **DDx**
+    -   likely A, ...
+    -   probably A, B, or C, ...
+
+
+-   (+) follow-up is advised.
+
+-   (+) please correlate with clinical findings.
+
+
+## The rest is OK
+
+-   Otherwise, unremarkable
