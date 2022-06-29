@@ -13,7 +13,12 @@ library(gt)
 
 ```{r us_nl, include=FALSE}
 us_nl <- list(
-  thyroid = "< 3 x 2 x 6 cm (AP x TV x Long)",
+  thyroid = "
+* Size < 3 x 2 x 6 cm ?? (AP x TV x Long)
+* Cervical LN
+    * minimal axial diameter < 1 cm
+    * oval shape (axis–to–long axis ratio [S/L] < 0.5)
+",
   bladder = "
 * < 0.8 cm (Collapse)
 * < 0.4 cm (Distend)
@@ -137,9 +142,8 @@ render_gt_us_nl_tbl <- function() {
 }
 
 ## Show for HTML only
-if(knitr::is_html_output()) {
-  render_gt_us_nl_tbl()
-}
+
+render_gt_us_nl_tbl()
 ```
 
 
