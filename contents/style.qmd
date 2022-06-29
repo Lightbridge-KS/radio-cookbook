@@ -6,12 +6,25 @@
 
 -   `object size ___ unit`: e.g., Common bile duct size 4.4 mm
 
+-   `___ unit in blah.`: e.g., 0.3 cm in thickness.
+
 -   `Size = ___ `: e.g.
     -   **Isthmus:** Thickness = 2.0 mm. 
 
--   `object, measuring about ___ unit`: e.g.
+-   `object, measuring ___ unit`: e.g.
     -   **Left kidney:** Normal size and parenchymal echogenicity, measuring about 11.6 x 5.0 x 4.2 cm. 
 
+
+## Indefinte
+
+-   `about ...`: measuring about 3 cm
+
+-   `size up to ...`: size up to 1 cm
+
+
+## Range
+
+-   `ranging from ? - ?`: ranging from 0.4-1.0 cm.
 
 
 **Note:** abbreviation of unit *do not* requires period (e.g., `cm`, `mm`, `ml`).
