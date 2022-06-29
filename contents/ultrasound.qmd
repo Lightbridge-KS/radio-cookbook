@@ -202,12 +202,17 @@ if(knitr::is_html_output()) {
 
 ### Fatty Liver
 
-**Liver:** Normal size and diffusely increased parenchymal echogenicity of the liver. 
+**Liver:** Normal size and (diffusely) increased parenchymal echogenicity of the liver. 
 
+- **(Mild):** mildly increased parenchymal echogenicity of the liver. 
 
-- **(Moderate):** + with imparied visualization of hepatic vasculature, suggesting of moderate degree fatty liver disease.
+- **(Moderate):** + with imparied visualization of hepatic vasculature,
+
+- **(Severe):** + with imparied visualization of hepatic vasculature and diaphragm, 
 
 - **(Focal fat sparing):** + A geographic hypoechoic lesion at periportal region, suggestive of focal fat sparing. 
+
+... suggesting of `[mild | moderate | severe]` degree fatty liver disease.
 
 + No focal lesion. 
 
