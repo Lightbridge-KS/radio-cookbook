@@ -53,19 +53,18 @@
 
 **Others:** No free fluid. 
 
-## Abdo Disease 
+## Abdo Findings 
 
 ### Fatty Liver
 
-**Liver:** Normal size and (diffusely) increased parenchymal echogenicity of the liver. 
+- **Mild:** Normal size with mildly increased parenchymal echogenicity of the liver,
 
-- **(Mild):** mildly increased parenchymal echogenicity of the liver. 
+- **Moderate:** Normal size with (diffusely) increased parenchymal echogenicity of the liver, causing imparied visualization of **intrahepatic vasculature**, 
 
-- **(Moderate):** + with imparied visualization of hepatic vasculature,
+- **Severe:** Normal size with (diffusely) increased parenchymal echogenicity of the liver, causing imparied visualization of intrahepatic vasculature and **right hemidiaphragm**,
 
-- **(Severe):** + with imparied visualization of hepatic vasculature and diaphragm, 
 
-- **(Focal fat sparing):** + A geographic hypoechoic lesion at periportal region, suggestive of focal fat sparing. 
+**(Focal fat sparing):** + A geographic hypoechoic lesion at periportal region, suggesting of focal fat sparing. 
 
 ... suggesting of `[mild | moderate | severe]` degree fatty liver disease.
 
@@ -74,7 +73,6 @@
 **IMPRESSION:** 
 
 - `[Mild | Moderate | Severe]` degree fatty liver disease without focal lesion 
-- Otherwise, unremarkable
 
 ### Gall Stone
 
@@ -83,7 +81,6 @@
 **IMPRESSION:** 
 
 - A ???-cm gallstone without evidence of cholecystitis 
-- Otherwise, unremarkable
 
 
 ### Dilate CBD
@@ -92,6 +89,10 @@
 
 
 - **(Not seen cause):** + without demonstrable cause of obstruction. No intrahepatic ductal dilatation. 
+
+### Renal
+
+**Renal cortical defect**: There is a wedge-shaped cortical thinning at ___ kidney suggesting of [renal cortical defect](https://radiopaedia.org/articles/renal-cortical-defect), DDx includes scarring tissue.
 
 
 ### Myoma & Cyst
