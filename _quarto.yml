@@ -28,6 +28,8 @@ format:
   #   documentclass: scrreprt
   #   include-in-header: "assets/pre-tex/thai-preamble.tex" # Thai preamble
 
+css: assets/style/style.css
+
 execute: 
   echo: false
 
