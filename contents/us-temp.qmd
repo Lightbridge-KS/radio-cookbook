@@ -74,6 +74,16 @@
 
 - `[Mild | Moderate | Severe]` degree fatty liver disease without focal lesion 
 
+### Cirrhosis
+
+- **Liver:** Normal size ? with coarse parenchymal echogenicity and surface nodularity. No focal lesion.  
+
+- **Spleen:** Spleenomegaly ?. No focal lesion.
+
+**IMPRESSION:** 
+
+- Liver cirrhosis without focal lesion.
+
 ### Gall Stone
 
 **Gallbladder and biliary system:** A ???-cm gallstone. No gallbladder wall thickening or pericholecystic fluid. Common bile duct size ___ mm. No intrahepatic ductal dilatation. 
@@ -127,3 +137,19 @@
 
 - [TODO]
 - No cervical lymphadenopathy
+
+
+### PTC S/P TTD (1 mo)
+
+**HISTORY:** A ??-year-old woman with papillary thyroid cancer S/P TTD (dd/mm/yyyy) ± with I-131 ablation.
+
+**FINDINGS:** 
+
+-  **Thyroid gland:** Status is post total thyroidectomy. There is a small hypoechoic nodule at `[right | left]` sided of thyroid bed, measuring _ x _ cm., probably residual thyroid tissue or post-operative granulation tissue.
+
+-  **Cervical lymph nodes:** There are multiple subcentrimeter oval-shaped lymph nodes with central fat hilum at the bilateral cervical regions, measuring up to ___ mm in short axis diameter.  
+
+**IMPRESSION:**
+
+- Hypoechoic nodule at `[right | left]` sided of thyroid bed, probably small residual thyroid tissue or post-operative change. Follow-up is advised.
+- No cervical lymph node enlargement.  
