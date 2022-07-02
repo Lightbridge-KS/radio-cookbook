@@ -12,9 +12,13 @@ book:
   chapters:
     - index.qmd
     - contents/style.qmd
-    - contents/us-ref.qmd
-    - contents/us-temp.qmd
-    - references.qmd
+    - part: "Ref"
+      chapters:
+      - contents/us-ref.qmd
+    - part: "Template"
+      chapters:
+      - contents/us-temp.qmd
+    - bibliography.qmd
 
 bibliography: references.bib
 
