@@ -11,12 +11,12 @@ book:
   repo-actions: edit
   chapters:
     - index.qmd
-    - contents/style.qmd
     - part: "Ref"
       chapters:
       - contents/us-ref.qmd
     - part: "Template"
       chapters:
+      - contents/style.qmd  
       - contents/us-temp.qmd
     - bibliography.qmd
 
