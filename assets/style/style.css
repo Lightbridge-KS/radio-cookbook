@@ -19,3 +19,8 @@ h3 {
 h3 span.header-section-number {
     color: #5431af;
 }
+
+/* Heading 4 */
+h4, h4 span.header-section-number {
+    color: #204410;
+}
