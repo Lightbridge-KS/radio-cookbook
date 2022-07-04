@@ -24,7 +24,7 @@ format:
   html:
     theme: 
       light: cosmo #zephyr
-      dark: solar
+      dark: slate #cyborg
   docx: default
   # pdf:
   #   documentclass: scrreprt
