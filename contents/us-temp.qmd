@@ -53,7 +53,7 @@
 
 **Others:** No free fluid. 
 
-## Abdo Findings 
+## HBP Findings 
 
 ### Fatty Liver
 
@@ -100,10 +100,26 @@
 
 - **(Not seen cause):** + without demonstrable cause of obstruction. No intrahepatic ductal dilatation. 
 
-### Renal
+## Renal Findings
 
-[**Renal cortical defect**](https://radiopaedia.org/articles/renal-cortical-defect): Focal cortical scar at ___ pole of the ___ kidney. 
+### Renal Stone
 
+**Non-obs, caliceal stone:** Normal size and parenchymal echogenicity of both kidneys. Non-obstructing caliceal stones at ?? pole of ?? kidney, measuring ___. No solid mass.
+
+### Renal Hydronephrosis
+
+**(Distended bladder):** Mildly dilated pelvicalyceal system of right kidney without demonstrable cause of obstruction. 
+
+
+**IMPRESSION:**
+
+**(Distended bladder):** Mild dilatation of the right pelvocaleceal system, probable reflux from fully-distended urinary bladder.  
+
+### Renal etc.
+
+- **Renal cortical defect**: Focal cortical scar at ___ pole of the ___ kidney. ([ref](https://radiopaedia.org/articles/renal-cortical-defect))
+
+## Repro Findings
 
 ### Myoma & Cyst
 
@@ -114,6 +130,7 @@
 -   Endometrial thickness is measured about __ mm. 
 
 **Ovaries and adnexae:** Normal size of ___ ovaries. A ???-cm cystic lesion at right adnexa, probably functional cyst or endometriotic cyst.
+
 
 ## Thyroid Template
 
