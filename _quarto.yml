@@ -15,8 +15,9 @@ book:
     - contents/style.qmd  
     - part: "Ultrasound"
       chapters:
-      - contents/us-ref.qmd
-      - contents/us-temp.qmd
+      - contents/us/us-q-ref.qmd
+      - contents/us/us-normal.qmd
+      - contents/us/us-temp.qmd
     - bibliography.qmd
 
 bibliography: references.bib

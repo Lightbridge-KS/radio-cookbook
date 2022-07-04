@@ -1,15 +1,14 @@
-# US Ref
+# US Quick Ref
 
 ```{r setup, include=FALSE}
 knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
-here::i_am("contents/us-ref.qmd")
+here::i_am("contents/us/us-q-ref.qmd")
 library(here)
 library(dplyr)
 library(tibble)
 library(gt)
 ```
 
-## Quick Ref
 
 ```{r us_nl, include=FALSE}
 us_nl <- list(
@@ -153,38 +152,3 @@ render_gt_us_nl_tbl()
 
 - Mainly from @abd-us-step-by-step.
 
-
-## HBP
-
-### Liver
-
-#### View
-
-- **Subcostal:** Transverse & longitudinal view of RL & LL (LL must includes **caudate lobe**)
-
-- **Intercostal:** RL
-
-::: {.callout-warning}
-#### Beware
-
-Blind spot of liver at “superior portion of Rt lobe” 
-:::
-
-#### Measure
-
-- **Normal liver span:** `15 - 17 cm` (sagital, at MCL)
-
-- **Enlarge:** `> 15.5 cm` 
-
-- **Hepatomegaly:** confident if liver extend to caudal of Rt kidney 
-
-[@sono-diffuse-liver-dz]
-
-### Gallbladder
-
-- **View:** transverse & longitudinal
-
-- **Measure:** 
-
-    - Diameter: long < 11 cm, TV < 4 cm
-    - Wall thickness < 3 mm

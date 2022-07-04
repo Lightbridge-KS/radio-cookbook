@@ -1,0 +1,55 @@
+# Normal Scan {#sec-normal-scan}
+
+## Liver
+
+### View
+
+- **Subcostal:** Transverse & longitudinal view of RL & LL (LL must includes **caudate lobe**)
+
+- **Intercostal:** RL
+
+::: {.callout-warning}
+#### Beware
+
+Blind spot of liver at “superior portion of Rt lobe” 
+:::
+
+![Liver scan plane](../../img/us/liver-scan-plane.png){#fig-liver-scan-plane width="50%"}
+
+### Measure
+
+- **Normal liver span:** `15 - 17 cm` (sagital, at MCL)
+
+- **Enlarge:** `> 15.5 cm` 
+
+- **Hepatomegaly:** confident if liver extend to caudal of Rt kidney 
+
+[@sono-diffuse-liver-dz]
+
+### Example
+
+#### Longitudinal
+
+::: {layout-nrow=2}
+![Longitudinal view at superior border, and](../../img/us/liver-long-sup.png){#fig-liver-long-sup width="80%"}
+
+![At inferior border](../../img/us/liver-long-inf.png){#fig-liver-long-inf width="80%"}
+:::
+
+
+## Billiary
+
+### Gallbladder
+
+- **View:** transverse & longitudinal
+
+- **Measure:** 
+
+    - Diameter: long < 11 cm, TV < 4 cm
+    - Wall thickness < 3 mm
+
+### CBD
+
+## Refereces
+
+-   Images included in this section ([@sec-normal-scan]) are mainly from @abd-us-step-by-step.
