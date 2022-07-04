@@ -9,7 +9,7 @@ library(tibble)
 library(gt)
 ```
 
-## Summary
+## Quick Ref
 
 ```{r us_nl, include=FALSE}
 us_nl <- list(
