@@ -27,7 +27,9 @@ format:
     theme: 
       light: cosmo #zephyr
       dark: slate #cyborg
-  docx: default
+  docx:
+    toc-depth: 2
+    reference-doc: "assets/docx-ref/th-sarabun-new-ref.docx"
   # pdf:
   #   documentclass: scrreprt
   #   include-in-header: "assets/pre-tex/thai-preamble.tex" # Thai preamble
