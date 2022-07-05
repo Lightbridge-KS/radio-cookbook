@@ -55,6 +55,10 @@
 
 ## HBP Findings 
 
+### History
+
+-  Chronic HBV infection, HCC surveillance.
+
 ### Fatty Liver
 
 - **Mild:** Normal size with mildly increased parenchymal echogenicity of the liver,
@@ -100,11 +104,15 @@
 
 - **(Not seen cause):** + without demonstrable cause of obstruction. No intrahepatic ductal dilatation. 
 
+### Post-cholecystectomy
+
+- **Gallbladder:** Surgically absent gallbladder.
+
 ## Renal Findings
 
 ### Renal Stone
 
-**Calcified vessel:** There are multiple focal parallel linear hyperechogenicity at renal parenchyma, likely calcified vessels.
+**Calcified vessel:** Hyperechoic foci at ___, probably calcified vessels or non-obstructive calyceal stone.
 
 
 **Non-obs, caliceal stone:** Normal size and parenchymal echogenicity of both kidneys. Non-obstructing caliceal stones at ?? pole of ?? kidney, measuring ___. No solid mass.
@@ -118,6 +126,12 @@
 **IMPRESSION:**
 
 **(Distended bladder):** Mild dilatation of the right pelvocaleceal system, probable reflux from fully-distended urinary bladder.  
+
+### Renal Cyst
+
+A ??-cm cortical cyst...
+
+**(calcify wall):** + with calcified wall.
 
 ### Renal etc.
 
