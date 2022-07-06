@@ -133,6 +133,10 @@ A ??-cm cortical cyst...
 
 **(calcify wall):** + with calcified wall.
 
+### CKD
+
+- **Kidneys:** small size with increased parenchymal echogenicity and thinning of cortex. 
+
 ### Renal etc.
 
 - **Renal cortical defect**: Focal cortical scar at ___ pole of the ___ kidney. ([ref](https://radiopaedia.org/articles/renal-cortical-defect))

@@ -27,7 +27,6 @@
 
 -   `ranging from ? - ?`: ranging from 0.4-1.0 cm.
 
-
 **Note:** abbreviation of unit *do not* requires period (e.g., `cm`, `mm`, `ml`).
 
 ## Size Change
