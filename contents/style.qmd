@@ -53,7 +53,13 @@
 
 -   (+) please correlate with clinical findings.
 
-
 ## The rest is OK
 
 -   Otherwise, unremarkable
+
+
+## Limited Study
+
+**U/S Abdomen**
+
+-   Limited evaluation due to overlying bowel gas.
