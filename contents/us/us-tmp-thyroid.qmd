@@ -1,0 +1,40 @@
+# Thyroid Template
+
+## Thyroid Normal
+
+**US OF THE THYROID** 
+
+**FINDINGS:**
+
+**Thyroid:** 
+
+**Right lobe:** Normal size and homogeneous echogenicity. Size = _ x _ x _ cm. No mass. 
+
+**Left lobe:** Normal size and homogeneous echogencity. Size = _ x _ x _ cm. No mass. 
+
+**Isthmus:** Thickness = ___ mm. 
+
+**Cervical lymph nodes:** No enlargement. 
+
+**IMPRESSION:**
+
+- [TODO]
+- No cervical lymphadenopathy
+
+
+## PTC S/P TTD (1 mo)
+
+**HISTORY:** A ??-year-old woman with papillary thyroid cancer S/P TTD (dd/mm/yyyy) ± with I-131 ablation.
+
+**FINDINGS:** 
+
+-  **Thyroid gland:** Status is post total thyroidectomy. There is a small hypoechoic nodule at `[right | left]` sided of thyroid bed, measuring _ x _ cm., probably residual thyroid tissue or post-operative granulation tissue.
+
+-  **Cervical lymph nodes:** There are multiple subcentrimeter oval-shaped lymph nodes with central fat hilum at the bilateral cervical regions, measuring up to ___ mm in short axis diameter.  
+
+**IMPRESSION:**
+
+- Hypoechoic nodule at `[right | left]` sided of thyroid bed, probably small residual thyroid tissue or post-operative change. Follow-up is advised.
+- No cervical lymph node enlargement.  
+
+
