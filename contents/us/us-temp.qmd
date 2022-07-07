@@ -162,7 +162,11 @@ A ??-cm cortical cyst...
 
 ### CKD
 
-- **Kidneys:** small size with increased parenchymal echogenicity and thinning of cortex. 
+- **... kidney:** Small size, measuring ?x?x? cm, with thinning of cortex, measuring 0.? cm, and increased parenchymal echogenicity. 
+
+**IMPRESSION:**
+
+- Chronic parenchymatous disease of ___ kidney.
 
 ### Renal etc.
 
