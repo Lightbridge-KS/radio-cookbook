@@ -110,7 +110,7 @@ adenomyomatosis at ___ of the gallbladder. No stone.
 
 **IMPRESSION:** 
 
-- `[Focal | Segmental | Generalised]` adenomyomatosis of the gallbladder ___.  
+- `[Focal | Segmental | Generalised]` adenomyomatosis of the gallbladder at ___.  
 
 (Ref: [radiopedia](https://doi.org/10.53347/rID-7056))
 
