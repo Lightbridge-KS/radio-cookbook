@@ -165,11 +165,11 @@ A ??-cm cortical cyst...
 
 See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
-- Class I, II -> No need F/U
+- Class I, II: No need F/U
 
-- Class IIF -> F/U
+- Class IIF: F/U
 
-- Class III, IV -> Consult URO
+- Class III, IV: Consult URO
 
 
 ### CKD
