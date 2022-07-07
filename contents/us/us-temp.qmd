@@ -53,6 +53,12 @@
 
 **Others:** No free fluid. 
 
+### Limited study
+
+-   **Bowel gas:** Limited evaluation due to overlying bowel gas.
+
+-   **High liver:** Limited some evaluation due to high liver position.
+
 ## HBP Findings 
 
 ### History
@@ -192,3 +198,5 @@ A ??-cm cortical cyst...
 
 - Hypoechoic nodule at `[right | left]` sided of thyroid bed, probably small residual thyroid tissue or post-operative change. Follow-up is advised.
 - No cervical lymph node enlargement.  
+
+
