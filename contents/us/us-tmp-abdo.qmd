@@ -152,13 +152,17 @@ adenomyomatosis at ___ of the gallbladder. No stone.
 
 **IMPRESSION:**
 
-**(Distended bladder):** Mild dilatation of the right pelvocaleceal system, probable reflux from fully-distended urinary bladder.  
+**(Distended bladder):** Mild dilatation of the right pelvocaleceal system, probably reflux from fully-distended urinary bladder.  
 
 ### Renal Cyst
 
-A ??-cm cortical cyst...
+A ??-cm cortical cyst... 
 
-**(calcify wall):** + with calcified wall.
+- (+) with calcified wall
+- (+) with internal septation
+
+Bosniak classification, see [nice illustrations](https://doi.org/10.53347/rID-20989).
+
 
 ### CKD
 
