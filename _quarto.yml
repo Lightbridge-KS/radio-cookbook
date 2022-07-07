@@ -22,6 +22,7 @@ book:
     - bibliography.qmd
 
 bibliography: references.bib
+csl: assets/csl/elsevier-with-titles.csl
 
 format:
   html:
