@@ -161,7 +161,15 @@ A ??-cm cortical cyst...
 - (+) with calcified wall
 - (+) with internal septation
 
-Bosniak classification, see [nice illustrations](https://doi.org/10.53347/rID-20989).
+**Bosniak classification**
+
+See [nice illustrations](https://doi.org/10.53347/rID-20989).
+
+- Class I, II -> No need F/U
+
+- Class IIF -> F/U
+
+- Class III, IV -> Consult URO
 
 
 ### CKD
