@@ -59,7 +59,7 @@
 
 -   **High liver:** Limited some evaluation due to high liver position.
 
-## HBP Findings 
+## Liver Findings 
 
 ### History
 
@@ -94,9 +94,30 @@
 
 - Liver cirrhosis without focal lesion.
 
+## Biliary Findings
+
+### GB Adenomyomatosis
+
+**Gallbladder:** Distended gallbladder with ...
+
+(Choose one)
+
+-   focal (localised)
+-   segmental (annular)
+-   generalised (diffuse)
+
+adenomyomatosis at ___ of the gallbladder. No stone. 
+
+**IMPRESSION:** 
+
+- Focal adenomyomatosis of the gallbladder ___.  
+
+(Ref: [radiopedia](https://doi.org/10.53347/rID-7056))
+
+
 ### Gall Stone
 
-**Gallbladder and biliary system:** A ???-cm gallstone. No gallbladder wall thickening or pericholecystic fluid. Common bile duct size ___ mm. No intrahepatic ductal dilatation. 
+**Gallbladder:** A ???-cm gallstone. No gallbladder wall thickening or pericholecystic fluid.
 
 **IMPRESSION:** 
 
