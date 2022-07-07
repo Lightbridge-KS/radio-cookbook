@@ -1,5 +1,11 @@
 # Style Guide {.unnumbered}
 
+::: {.callout-note}
+### About
+
+A general style guide for constructing radiology report in English.
+:::
+
 ## Measure Size
 
 -   `?-unit object`: e.g., A 4.2-cm gallstone
@@ -39,21 +45,27 @@
 
 -   No changed of 🤔 at ...
 
+-   🤔 size ___, unchanged.
+
 
 ## New Lesion
 
 -   Newly seen a 🤔 at ⛰, ... 
 
-- **DDx**
-    -   likely A, ...
-    -   probably A, B, or C, ...
+-   🤔 are seen, measuring about ___
 
-
--   (+) follow-up is advised.
-
--   (+) please correlate with clinical findings.
 
 ## The rest is OK
 
 -   Otherwise, unremarkable
 
+## DDx
+
+-   likely A
+-   probably A, B, or C
+
+## Suggestion
+
+-   (+) follow-up is advised.
+
+-   (+) please correlate with clinical findings.
