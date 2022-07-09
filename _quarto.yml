@@ -6,7 +6,7 @@ book:
   title: "Radiology Cookbook"
   author: "Kittipos Sirivongrungson"
   date: today # `today` for current date when render
-  site-url: https://radio-notes-lightbridge.netlify.app
+  site-url: https://radio-cookbook-lightbridge.netlify.app
   repo-url: https://github.com/Lightbridge-KS/radio-cookbook
   repo-actions: edit
   chapters:
