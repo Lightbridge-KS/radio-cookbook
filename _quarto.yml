@@ -3,11 +3,11 @@ project:
   execute-dir: project # Use project root as working dir
 
 book:
-  title: "Radiology Notes"
+  title: "Radiology Cookbook"
   author: "Kittipos Sirivongrungson"
   date: today # `today` for current date when render
   site-url: https://radio-notes-lightbridge.netlify.app
-  repo-url: https://github.com/Lightbridge-KS/radio-notes
+  repo-url: https://github.com/Lightbridge-KS/radio-cookbook
   repo-actions: edit
   chapters:
     - index.qmd

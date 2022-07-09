@@ -1,13 +1,13 @@
 ---
 description-meta: |
-  This is my notes on radiology resident training at the Department of Diagnostic and Therapeutic Radiology, Faculty of Medicine, Ramathibodi Hospital.
+  My personal cookbook for writing radiology report. I developed this during my residency training at the Department of Diagnostic and Therapeutic Radiology, Faculty of Medicine, Ramathibodi Hospital.
 ---
 
 ## About {.unnumbered}
 
 ::: {.callout-note appearance="simple"}
 
-This is my field notes on my training as a resident in Diagnostic Radiology Department.
+My cookbook contains quick references and template for quickly constructing a radiology report.
 :::
 
 
@@ -15,5 +15,7 @@ This is my field notes on my training as a resident in Diagnostic Radiology Depa
 
 Please note that the contents of this notebook are during development and subject to change.
 :::
+
+
 
 

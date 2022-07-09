@@ -1,4 +1,4 @@
-# Radiology Notes
+# Radiology Cookbook
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6f63b12d-0fee-4a1f-b5e4-7eeae4c3f419/deploy-status)](https://app.netlify.com/sites/radio-notes-lightbridge/deploys)
 
