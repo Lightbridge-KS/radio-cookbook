@@ -57,7 +57,7 @@
 
 -   **Bowel gas:** Limited evaluation due to overlying bowel gas.
 
--   **High liver:** Limited some evaluation due to high liver position.
+-   **High liver:** Limited evaluation due to high liver position.
 
 ## Liver Findings 
 
@@ -73,12 +73,15 @@
 
 - **Severe:** Normal size with (diffusely) increased parenchymal echogenicity of the liver, causing imparied visualization of intrahepatic vasculature and **right hemidiaphragm**,
 
-
-**(Focal fat sparing):** + A geographic hypoechoic lesion at periportal region, suggesting of focal fat sparing. 
-
 ... suggesting of `[mild | moderate | severe]` degree fatty liver disease.
 
-+ No focal lesion. 
+**(Focal fat sparing):** + A geographic hypoechoic lesion at...
+
+- periportal
+- peri-gallbladder
+- ...
+
+region, suggesting of focal fat sparing. (ref: [rID-6852](https://doi.org/10.53347/rID-6852)) 
 
 **IMPRESSION:** 
 
