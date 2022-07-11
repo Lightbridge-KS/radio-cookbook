@@ -21,15 +21,17 @@ A general style guide for constructing radiology report in English.
     -   **Left kidney:** Normal size and parenchymal echogenicity, measuring about 11.6 x 5.0 x 4.2 cm. 
 
 
-## Indefinte
+## Uncertain amount
 
--   small amount of ___
+-   `[a few | several]` + pleural countable n. (e.g., a few cysts)
 
--   `about ...`: measuring about 3 cm
+-   `[small | large]` amount of + uncountable n. (e.g., small amount of free fluid)
 
--   `size up to ...`: size up to 1 cm
+## Uncertain measurement
 
-## Range
+-   `about ...`: measuring about 3 cm.
+
+-   `size up to ...`: size up to 1 cm.
 
 -   `ranging from ? - ?`: ranging from 0.4-1.0 cm.
 
@@ -58,11 +60,14 @@ A general style guide for constructing radiology report in English.
 ## The rest is OK
 
 -   Otherwise, unremarkable
+-   No demonstrable ... 
 
 ## DDx
 
 -   likely A
 -   probably A, B, or C
+-   possibly A, B, or C
+-   could be A, B, or C
 
 ## Suggestion
 

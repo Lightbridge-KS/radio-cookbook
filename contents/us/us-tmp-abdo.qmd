@@ -78,10 +78,10 @@
 **(Focal fat sparing):** + A geographic hypoechoic lesion at...
 
 - periportal
-- peri-gallbladder
+- peri-gallbladder (gallbladder fossa)
 - ...
 
-region, suggesting of focal fat sparing. (ref: [rID-6852](https://doi.org/10.53347/rID-6852)) 
+region, likely a focal fat sparing. (ref: [rID-6852](https://doi.org/10.53347/rID-6852)) 
 
 **IMPRESSION:** 
 
@@ -89,7 +89,7 @@ region, suggesting of focal fat sparing. (ref: [rID-6852](https://doi.org/10.533
 
 ### Cirrhosis
 
-- **Liver:** Normal size ? with coarse parenchymal echogenicity and surface nodularity. No focal lesion.  
+- **Liver:** `[Normal size | Enlarged caudate lobe]` with diffusely coarse parenchymal echogenicity and surface nodularity. No focal lesion. Portal vein enlarged, measuring ___ cm.
 
 - **Spleen:** Spleenomegaly ?. No focal lesion.
 
@@ -150,16 +150,26 @@ adenomyomatosis at ___ of the gallbladder. No stone.
 
 ### Renal Hydronephrosis
 
-**(Distended bladder):** Mildly dilated pelvicalyceal system of right kidney without demonstrable cause of obstruction. 
+#### Hydronephrosis (no cause)
 
+-   **Kidneys:** Dilatation of pelvicalyceal system (extending to proximal part of ureter) without demonstrable cause of obstruction.
+
+**IMPRESSION:** 
+
+-   [Mild | Moderate | Severe] ... hydronephrosis without demonstrable cause.
+
+#### Distended bladder
+
+-   **Kidneys:** Mildly dilated pelvicalyceal system of ___ kidney without demonstrable cause of obstruction. 
 
 **IMPRESSION:**
 
-**(Distended bladder):** Mild dilatation of the right pelvocaleceal system, probably reflux from fully-distended urinary bladder.  
+-   Mild dilatation of the ___ pelvocaleceal system, probably reflux from fully-distended urinary bladder.  
+
 
 ### Renal Cyst
 
-A ??-cm cortical cyst... 
+A ??-cm (simple) cortical cyst... 
 
 - (+) with calcified wall
 - (+) with internal septation
@@ -172,7 +182,7 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 - Class IIF: F/U
 
-- Class III, IV: Consult URO
+- Class III, IV: further CT or MRI
 
 
 ### CKD
@@ -182,6 +192,10 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 **IMPRESSION:**
 
 - Chronic parenchymatous disease of ___ kidney.
+
+### Nephrectomy
+
+- **Partial nephrectomy:** Evidence of partial nephrectomy at ___ of ... kidney.
 
 ### Renal etc.
 
@@ -198,3 +212,14 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 -   Endometrial thickness is measured about __ mm. 
 
 **Ovaries and adnexae:** Normal size of ___ ovaries. A ???-cm cystic lesion at right adnexa, probably functional cyst or endometriotic cyst.
+
+
+### Prostate
+
+#### Prominent prostate (> 25 ml)
+
+-   **Prostate gland:** Prominent size, measuring ___ ml in volume.
+
+**IMPRESSION:** 
+
+-   Prominent size of the prostate gland.
