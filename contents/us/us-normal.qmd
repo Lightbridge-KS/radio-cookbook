@@ -14,7 +14,7 @@
 Blind spot of liver at “superior portion of Rt lobe” 
 :::
 
-![Liver scan plane](../../img/us/liver-scan-plane.png){#fig-liver-scan-plane width="50%"}
+![Liver scan plane [@abd-us-step-by-step]](../../img/us/liver-scan-plane.png){#fig-liver-scan-plane width="50%"}
 
 ### Measure
 
@@ -24,7 +24,7 @@ Blind spot of liver at “superior portion of Rt lobe”
 
 - **Hepatomegaly:** confident if liver extend to caudal of Rt kidney 
 
-[@sono-diffuse-liver-dz]
+(Ref: [@sono-diffuse-liver-dz])
 
 ### Example
 
@@ -33,7 +33,7 @@ Blind spot of liver at “superior portion of Rt lobe”
 ::: {layout-nrow=2}
 ![Longitudinal view at superior border, and](../../img/us/liver-long-sup.png){#fig-liver-long-sup width="80%"}
 
-![At inferior border](../../img/us/liver-long-inf.png){#fig-liver-long-inf width="80%"}
+![At inferior border [@abd-us-step-by-step]](../../img/us/liver-long-inf.png){#fig-liver-long-inf width="80%"}
 :::
 
 
@@ -48,8 +48,3 @@ Blind spot of liver at “superior portion of Rt lobe”
     - Diameter: long < 11 cm, TV < 4 cm
     - Wall thickness < 3 mm
 
-### CBD
-
-## Refereces
-
--   Images included in this section ([@sec-normal-scan]) are mainly from @abd-us-step-by-step.
