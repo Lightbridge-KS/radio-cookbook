@@ -76,6 +76,10 @@ A general style guide for constructing radiology report in English.
 -   possibly A, B, or C
 -   could be A, B, or C
 
+## Not seen cause
+
+-   (+) without demonstrable cause of ___.
+
 ## Suggestion
 
 -   (+) follow-up is advised.
