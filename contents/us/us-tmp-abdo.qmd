@@ -187,7 +187,7 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 ### CKD
 
-- **... kidney:** Small size, measuring ?x?x? cm, with thinning of cortex, measuring 0.? cm, and increased parenchymal echogenicity. 
+- **Kidneys:** Small size ___ kidney, measuring ?x?x? cm, with thinning of cortex, measuring 0.? cm, and increased parenchymal echogenicity. 
 
 **IMPRESSION:**
 
@@ -197,7 +197,13 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 - **Partial nephrectomy:** Evidence of partial nephrectomy at ___ of ... kidney.
 
-### Renal etc.
+### Extrarenal pelvis
+
+-   hypoechoic mass just outside the renal sinus without calyceal system dilatation, consistent with extrarenal pelvis.
+
+(Adapted from [this case report](https://doi.org/10.1002/ccr3.1143))
+
+### Renal Scar
 
 - **Renal cortical defect**: Focal cortical scar at ___ pole of the ___ kidney. ([ref](https://radiopaedia.org/articles/renal-cortical-defect))
 
