@@ -23,7 +23,7 @@ A general style guide for constructing radiology report in English.
 
 ## Uncertain amount
 
--   `[a few | several]` + pleural countable n. (e.g., a few cysts)
+-   `[a few | several | innumerable]` + pleural countable n. (e.g., a few cysts)
 
 -   `[small | large]` amount of + uncountable n. (e.g., small amount of free fluid)
 
@@ -66,7 +66,7 @@ A general style guide for constructing radiology report in English.
 
 **Sure**
 
--   consistent with A
+-   `[consistent | compatible]` with A
 -   `[suggesting | suggestive]` of A
 -   likely A
 
