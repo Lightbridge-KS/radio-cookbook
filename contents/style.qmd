@@ -101,4 +101,33 @@ A general style guide for constructing radiology report in English.
 
 -   (+) please correlate with clinical findings.
 
--   (+) further evaluation by ... is recommended.
+-   (+) further (evaluation by) ... is recommended.
+
+
+## Describe Focal Lesions
+
+-   **Amount:**
+
+    -   Solitary/single
+    -   Multiple (diffuse, segmental, lobar...)
+
+-   **Size:**
+
+    -   **Precise:** A `?-cm` cyst
+    -   **Not precise:** cyst, measuring `about` ? cm.
+    -   **Range:** `ranging from` ? - ? 
+    -   **Largest one:** `up to` ? cm.
+
+-   **Shape:**
+
+    -   round, oval, lobulated, irregular
+
+-   **Contour & Delimination:**
+
+    -  **Contour:** smooth, irregular
+    -   **Delimination** from adjacent parenchyma: `well | ill`-defined
+
+-   **Location**
+
+-   **Echogenicity | Density** (+ enhancement)
+
