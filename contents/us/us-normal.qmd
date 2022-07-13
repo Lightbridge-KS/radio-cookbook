@@ -2,7 +2,7 @@
 
 ## Liver
 
-### View
+### Overview
 
 - **Subcostal:** Transverse & longitudinal view of RL & LL (LL must includes **caudate lobe**)
 
@@ -16,6 +16,7 @@ Blind spot of liver at “superior portion of Rt lobe”
 
 ![Liver scan plane [@abd-us-step-by-step]](../../img/us/liver-scan-plane.png){#fig-liver-scan-plane width="50%"}
 
+
 ### Measure
 
 - **Normal liver span:** `15 - 17 cm` (sagital, at MCL)
@@ -24,18 +25,45 @@ Blind spot of liver at “superior portion of Rt lobe”
 
 - **Hepatomegaly:** confident if liver extend to caudal of Rt kidney 
 
-(Ref: [@sono-diffuse-liver-dz])
+(Ref from [@sono-diffuse-liver-dz])
 
-### Example
+### View: Longitudinal
 
-#### Longitudinal
-
+::: {.panel-tabset}
+### Image
 ::: {layout-nrow=2}
-![Longitudinal view at superior border, and](../../img/us/liver-long-sup.png){#fig-liver-long-sup width="80%"}
+![**Superior border:** longitudinal view [@abd-us-step-by-step]](../../img/us/liver-long-sup.png){#fig-liver-long-sup width="80%"}
 
-![At inferior border [@abd-us-step-by-step]](../../img/us/liver-long-inf.png){#fig-liver-long-inf width="80%"}
+![**Inferior border:** longitudinal view [@abd-us-step-by-step]](../../img/us/liver-long-inf.png){#fig-liver-long-inf width="80%"}
 :::
 
+### Drawing
+::: {layout-nrow=1}
+![Superior border: drawing [@abd-us-step-by-step]](../../img/us/liver-long-sup-draw.png){#fig-liver-long-sup-draw width="30%"}
+
+![Inferior border: drawing [@abd-us-step-by-step]](../../img/us/liver-long-inf-draw.png){#fig-liver-long-inf-draw width="35%"}
+:::
+
+:::
+
+
+
+### View: Transverse
+
+
+::: {.panel-tabset}
+#### Images
+
+::: {layout-nrow=2}
+![**Left lobe:** transverse view [@abd-us-step-by-step]](../../img/us/liver-tv-ll.png){#fig-liver-tv-ll width="80%"}
+
+![**Right lobe:** transverse view [@abd-us-step-by-step]](../../img/us/liver-tv-rl.png){#fig-liver-tv-rl width="80%"}
+:::
+
+#### Drawing
+![Transverse view drawing [@abd-us-step-by-step]](../../img/us/liver-tv-draw.png){#fig-liver-tv-draw width="80%"}
+
+:::
 
 ## Billiary
 
@@ -47,4 +75,3 @@ Blind spot of liver at “superior portion of Rt lobe”
 
     - Diameter: long < 11 cm, TV < 4 cm
     - Wall thickness < 3 mm
-
