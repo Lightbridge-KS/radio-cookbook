@@ -73,7 +73,7 @@
 
 - **Severe:** Normal size with (diffusely) increased parenchymal echogenicity of the liver, causing imparied visualization of intrahepatic vasculature and **right hemidiaphragm**,
 
-... suggesting of `[mild | moderate | severe]` degree fatty liver disease.
+... compatible with `[mild | moderate | severe]` degree fatty liver disease.
 
 **(Focal fat sparing):** + A geographic hypoechoic lesion at...
 
