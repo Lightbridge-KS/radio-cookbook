@@ -60,21 +60,36 @@ A general style guide for constructing radiology report in English.
 ## The rest is OK
 
 -   Otherwise, unremarkable
+-   The remainder of ... is/are unremarkable.
 -   No demonstrable ... 
 
 ## DDx
+
+(These findings are ...)
 
 **Sure**
 
 -   `[consistent | compatible]` with A
 -   `[suggesting | suggestive]` of A
+
+
 -   likely A
+-   most likely representing A
 
 **Maybe**
 
 -   probably A, B, or C
 -   possibly A, B, or C
 -   could be A, B, or C
+
+**Not found**
+
+-   There is no evidence of A.
+-  ... without evidence of A.
+
+##  Seen on
+
+-   A seen best in/on ... view.
 
 ## Not seen cause
 
@@ -85,3 +100,5 @@ A general style guide for constructing radiology report in English.
 -   (+) follow-up is advised.
 
 -   (+) please correlate with clinical findings.
+
+-   (+) further evaluation by ... is recommended.
