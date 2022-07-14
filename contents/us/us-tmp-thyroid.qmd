@@ -30,12 +30,21 @@
 
 -  **Thyroid gland:** Status is post total thyroidectomy. There is a small hypoechoic nodule at `[right | left]` sided of thyroid bed, measuring _ x _ cm., probably residual thyroid tissue or post-operative granulation tissue.
 
--  **Cervical lymph nodes:** There are multiple subcentrimeter oval-shaped lymph nodes with central fat hilum at the bilateral cervical regions, measuring up to ___ mm in short axis diameter.  
+-  **Cervical lymph nodes:** There are multiple subcentrimeter oval-shaped lymph nodes with preserved fat hilum at the bilateral cervical regions, measuring up to ___ mm in short axis diameter.  
 
 **IMPRESSION:**
 
 - Hypoechoic nodule at `[right | left]` sided of thyroid bed, probably small residual thyroid tissue or post-operative change. Follow-up is advised.
 - No cervical lymph node enlargement.  
+
+## S/P TTD (normal)
+
+-  **Thyroid gland:** Post total thyroidectomy. Unremarkable thyroid bed. The previously seen heterogeneous hypoechoic lesion at right thyroid fossa is resolved.
+
+**IMPRESSION:** 
+
+- Post total thyroidectomy without residual thyroid tissue or recurrent tumor 
+- No cervical lymphadenopathy.  
 
 
 ## Thyroid Enlarge (Diffuse)
