@@ -29,7 +29,9 @@ format:
   html:
     theme: 
       light: cosmo #zephyr
-      dark: slate #cyborg
+      dark: 
+      - slate #cyborg
+      - assets/style/theme-dark.scss
   docx:
     toc-depth: 2
     reference-doc: "assets/docx-ref/th-sarabun-new-ref.docx"
