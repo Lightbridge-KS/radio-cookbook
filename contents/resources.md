@@ -2,14 +2,14 @@
 
 ## Society
 
-**US**
+### US
 
 - [ACR](https://www.acr.org): American College of Radiology
 - [RSNA](https://www.rsna.org): Radiology Society of North America (free regis)
 - [ASNR](https://www.asnr.org): American Society of Neuroradiology (free regis)
 - [MSK Core lecture](https://radiologycorelectures.org/msk/): good MSK lecture
 
-**Thai**
+### Thai
 
 - [RCRT](https://www.rcrt.or.th)
 - [RCRT Education Enhancement](http://eden.rcrt.or.th)
@@ -40,4 +40,4 @@
 
 ## Research
 
-- [ขอวิจัยในคน RAMA](https://www.rama.mahidol.ac.th/research/ethics/)
+- [RAMA Research ethics](https://www.rama.mahidol.ac.th/research/ethics/): you need this when conducting research project in human subject
