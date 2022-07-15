@@ -1,4 +1,4 @@
-# Normal Scan {#sec-normal-scan}
+# Abdomen Scan {#sec-abdo-scan}
 
 ## Liver
 

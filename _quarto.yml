@@ -17,7 +17,7 @@ book:
     - part: "Ultrasound"
       chapters:
       - contents/us/us-q-ref.qmd
-      - contents/us/us-normal.qmd
+      - contents/us/us-scan-abdo.qmd
       - contents/us/us-tmp-abdo.qmd
       - contents/us/us-tmp-thyroid.qmd
     - bibliography.qmd
