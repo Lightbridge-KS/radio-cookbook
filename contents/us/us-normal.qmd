@@ -52,7 +52,7 @@ Blind spot of liver at “superior portion of Rt lobe”
 
 
 ::: {.panel-tabset}
-#### Images
+#### Image
 
 ::: {layout-nrow=2}
 ![**Left lobe:** transverse view [@abd-us-step-by-step]](../../img/us/liver-tv-ll.png){#fig-liver-tv-ll width="80%"}
@@ -75,3 +75,47 @@ Blind spot of liver at “superior portion of Rt lobe”
 
     - Diameter: long < 11 cm, TV < 4 cm
     - Wall thickness < 3 mm
+
+## Pancreas
+
+### View
+
+**View: transverse view**, angle the probe slightly upward to the liver.
+
+The *money shot* of the pancrease is shown in [@fig-pancrease-tv-goldenview].
+
+::: {.panel-tabset}
+#### Image
+![Pancrease: transverse view [@us-anatomy-2004]](../../img/us/pancrease-tv-goldenview.png){#fig-pancrease-tv-goldenview width="80%"}
+
+#### Drawing
+![Pancrease: drawing in transverse view [@us-anatomy-2004]](../../img/us/pancrease-tv-goldenview-draw.png){#fig-pancrease-tv-goldenview-draw width="80%"}
+:::
+
+### Finding pancreas
+
+::: {.panel-tabset}
+#### Landmark
+![Pancrease: landmark vessels [@abd-us-step-by-step]](../../img/us/pancrease-tv-landmk.png){#fig-pancrease-tv-landmk width="80%"}
+
+#### Scan
+![Pancrease: scanning from rostal to caudal [@abd-us-step-by-step]](../../img/us/pancrease-tv-locating.png){#fig-pancrease-tv-locating width="80%"}
+:::
+
+
+### Tips
+
+Pancrease is best examined in fasted patient. 
+
+If bowel gas obstruct the view, try:
+
+-   Examine after the patient change position:
+
+    -   From **lateral decubitus to supine**, or
+    -   From **supine to upright** (sit).
+
+-   Use acoustic windows:
+
+    -   Let the patient **drink some water** to fill in the stomach.
+
+    -   View through the **liver**.
