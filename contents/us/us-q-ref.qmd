@@ -48,9 +48,9 @@ Abnormal
 * \\> 15 cm (Mark splenomegaly)
 ",
   veins = "
-* Splenic v. < 11 cm
-* SMV < 12 cm
-* Portal v. < 13 cm
+* Splenic v. < 11 mm
+* SMV < 12 mm
+* Portal v. < 13 mm
 ",
   aorta = "
 Normal
