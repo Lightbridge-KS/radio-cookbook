@@ -9,6 +9,7 @@ library(tibble)
 library(gt)
 ```
 
+## Ref values 
 
 ```{r us_nl, include=FALSE}
 us_nl <- list(
@@ -147,8 +148,28 @@ render_gt_us_nl_tbl <- function() {
 render_gt_us_nl_tbl()
 ```
 
-
 **Reference**
 
 - Mainly from @abd-us-step-by-step.
 
+
+## Ellipsoid volume
+
+**Approximated formular:**
+
+$$
+0.5 \times D_1 \times D_2 \times D_3
+$$ {#eq-ellipsoid-vol-appr}
+
+@eq-ellipsoid-vol-appr, where $D_1$, $D_2$, $D_3$ are diameter along 3 perpendicular axis.
+
+**Full formular:**
+
+
+$$
+\frac{4}{3} \pi \times r_1 \times r_2 \times r_3 
+$$ {#eq-ellipsoid-vol-full}
+
+@eq-ellipsoid-vol-full, where $r_1$, $r_2$, $r_3$ are radius along 3 perpendicular axis.
+
+(ref: [ellipsoid-calc](https://www.omnicalculator.com/math/ellipsoid-volume))
