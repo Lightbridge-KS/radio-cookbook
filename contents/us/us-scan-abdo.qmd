@@ -1,10 +1,26 @@
 # Abdomen Scan {#sec-abdo-scan}
 
-## Terminology
+## Overview
+
+### Terminology
 
 - `U/S Whole Abdomen` = All abdominal organs
 - `U/S Upper Abdomen` = All abdominal organs - (Bladder & Reproductive orgs)
 - `U/S KUB` = Kidneys + Bladder + Reproductive orgs
+
+### Echogenicity
+
+**Relative echogenicity** on ultrasound (high to low):
+
+Darling Parents So Love Kids
+
+-  **D:** [diaphragm](https://radiopaedia.org/articles/diaphragm?lang=gb)
+-  **P:** [pancreas](https://radiopaedia.org/articles/pancreas?lang=gb)
+-  **S:** [spleen](https://radiopaedia.org/articles/spleen-1?lang=gb)
+-  **L:** [liver](https://radiopaedia.org/articles/liver?lang=gb)
+-  **K:** [kidneys](https://radiopaedia.org/articles/kidneys?lang=gb) (cortex)
+
+(Ref: [radiopedia](https://doi.org/10.53347/rID-11126))
 
 
 ## Liver
