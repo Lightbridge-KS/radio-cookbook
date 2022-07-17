@@ -65,16 +65,45 @@ Blind spot of liver at “superior portion of Rt lobe”
 
 :::
 
-## Billiary
 
-### Gallbladder
+## Gallbladder
 
 - **View:** transverse & longitudinal
 
 - **Measure:** 
 
-    - Diameter: long < 11 cm, TV < 4 cm
-    - Wall thickness < 3 mm
+    - **Diameter:** long (9 - `11` cm), TV (`< 4` cm)
+    - **Wall thickness** at *anterior wall* in *TV section* (`< 3` mm)
+
+![Gallbladder: a shot to take [@abd-us-step-by-step]](../../img/us/gb-shot.png){#fig-gb-shot width="80%"}
+
+## Porta Hepatis
+
+### Measure: CBD & PV
+
+**CBD**
+
+-   **Measure:** internal diameter
+    -  `< 0.6` cm (`< 0.9` for post-cholecystectomy)
+    -  Age \> 60 yrs can dilate 0.1 cm / 10 yrs
+
+**PV**
+
+-   **Measure:** internal diameter `< 13` mm
+-   **Flow direction:** `hepatopetal` ? (toward liver) or `hepatofugal` ? (away from liver)
+
+### View: CBD & PV
+
+**View: longitudinal scan** (with lt lateral decubitus) to see porta hepatis [@fig-portahepatis-long]
+
+![Porta hepatis: CBD and PV [@abd-us-step-by-step]](../../img/us/portahepatis-long.png){#fig-portahepatis-long width="80%"}
+
+**Tips: identifying CBD**
+
+-   CBD will appear anterior and parellel to PV and IVC.
+-   Color doppler will show no flow at CBD.
+
+
 
 ## Pancreas
 
@@ -82,7 +111,9 @@ Blind spot of liver at “superior portion of Rt lobe”
 
 **View: transverse view**, angle the probe slightly upward to the liver.
 
-The *money shot* of the pancrease is shown in [@fig-pancrease-tv-goldenview].
+-   use **splenic vein** as a land mark
+
+-   The *money shot* of the pancrease is shown in [@fig-pancrease-tv-goldenview].
 
 ::: {.panel-tabset}
 #### Image
