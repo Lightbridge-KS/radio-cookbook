@@ -62,7 +62,7 @@ Abnormal
 ",
   liver = "Span 15 - 17 cm (sagital, at MCL)",
   gb = "
-* Long < 11 cm
+* Long = 9 - 11 cm
 * TV < 4 cm
 * Wall thickness < 3 mm
 ",
