@@ -1,5 +1,12 @@
 # Abdomen Scan {#sec-abdo-scan}
 
+## Terminology
+
+- `U/S Whole Abdomen` = All abdominal organs
+- `U/S Upper Abdomen` = All abdominal organs - (Bladder & Reproductive orgs)
+- `U/S KUB` = Kidneys + Bladder + Reproductive orgs
+
+
 ## Liver
 
 ### Overview
