@@ -152,7 +152,7 @@ adenomyomatosis at ___ of the gallbladder. No stone.
 
 #### Hydronephrosis (no cause)
 
--   **Kidneys:** Dilatation of pelvicalyceal system (extending to proximal part of ureter) without demonstrable cause of obstruction.
+-   **Kidneys:** Dilatation of pelvicalyceal system (extending to proximal part of ureter) without demonstrable cause of obstruction. (± Limited evaluation of mid to distal ureter due to overlying bowel gas.)
 
 **IMPRESSION:** 
 
@@ -208,6 +208,12 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 ### Renal Scar
 
 - **Renal cortical defect**: Focal cortical scar at ___ pole of the ___ kidney. ([ref](https://radiopaedia.org/articles/renal-cortical-defect))
+
+## Bladder Findings
+
+### Neobladder
+
+**Bladder:** Surgically absent. The neobladder appears unremarkable. No mass.
 
 ## Repro Findings
 
