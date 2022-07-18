@@ -58,3 +58,21 @@
 
 - Diffuse thyroid enlargement. 
 - No cervical node enlargement.  
+
+
+## Thyroid Nodule
+
+**Thyroid gland:** 
+
+-   **Right lobe:** Normal size and heterogeneous echogenicity, measuring ?x?x? cm. A ... nodule (with ... calcifications), measuring ?x?x? cm.
+
+-   **Left lobe:** Normal size and heterogeneous echogenicity, measuring ?x?x? cm. No nodule. No calcification is seen.
+
+-   **Isthmus:** Thickness = 2.7 mm.
+
+-   **Cervical lymph nodes:** A few subcentrimeter lymph nodes at the bilateral cervical regions, measuring up to _ mm.
+
+**IMPRESSION:** 
+
+- A ?x?x?-cm ... nodule with ... calcifications at ... thyroid lobe, (TI-RADS=?). (FNA is suggested ?)
+- No cervical lymphadenopathy.
