@@ -184,6 +184,13 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 - Class III, IV: further CT or MRI
 
+#### ADPKD
+
+**Kidneys:** Enlarged size with increased parenchymal echogenicity and innumerable cysts of vary in size, measuring up to ___ cm. (Some cysts have hyperechoic content, thin septation and/or calcified walls.) No hydronephrosis or suspicious solid mass.
+
+**IMPRESSION:**
+
+- Parenchymatous kidney disease and innumerable cysts in both kidneys, some cysts have hyperechoic content, thin septation and/or calcified walls.
 
 ### CKD
 
