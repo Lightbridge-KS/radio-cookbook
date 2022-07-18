@@ -171,8 +171,9 @@ adenomyomatosis at ___ of the gallbladder. No stone.
 
 A ??-cm (simple) cortical cyst... 
 
-- (+) with calcified wall
-- (+) with internal septation
+- (±) with calcified wall
+- (±) with internal septation
+- (±) with internal dependent hyperechogenic foci
 
 **Bosniak classification**
 
@@ -217,6 +218,10 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 - **Renal cortical defect**: Focal cortical scar at ___ pole of the ___ kidney. ([ref](https://radiopaedia.org/articles/renal-cortical-defect))
 
 ## Bladder Findings
+
+### Residual Urine
+
+**Bladder:** [small | moderate | large] amount of post-voided residual urine.
 
 ### Neobladder
 
