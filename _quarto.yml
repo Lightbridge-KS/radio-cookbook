@@ -20,6 +20,7 @@ book:
       - contents/us/us-scan-abdo.qmd
       - contents/us/us-tmp-abdo.qmd
       - contents/us/us-tmp-thyroid.qmd
+      - contents/us/us-tmp-scrotum.qmd
     - bibliography.qmd
 
 bibliography: references.bib
