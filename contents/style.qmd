@@ -78,18 +78,19 @@ A general style guide for constructing radiology report in English.
 
 **Maybe**
 
--   probably A, B, or C
--   possibly A, B, or C
--   could be A, B, or C
+-   `[probably = possibly > could be]` A, B, or C
 
 **Not found**
 
 -   There is no evidence of A.
--  ... without evidence of A.
+
+-   ___ without evidence of A.
+
+-   No demonstrated ___
 
 ##  Seen on
 
--   A seen best in/on ... view.
+-   A seen best in/on ___ view.
 
 ## Not seen cause
 
