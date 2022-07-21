@@ -63,7 +63,8 @@
 
 ### History
 
--  Chronic HBV infection, HCC surveillance.
+-  NAFLD; surveillance.
+-  Chronic HBV infection; HCC surveillance.
 
 ### Fatty Liver
 
@@ -73,9 +74,9 @@
 
 - **Severe:** Normal size with (diffusely) increased parenchymal echogenicity of the liver, causing imparied visualization of intrahepatic vasculature and **right hemidiaphragm**,
 
-... compatible with `[mild | moderate | severe]` degree fatty liver disease.
+... compatible with `[mild | moderate | severe]` fatty liver disease.
 
-**(Focal fat sparing):** + A geographic hypoechoic lesion at...
+**(Focal fat sparing):** + Geographic hypoechoic areas `[at | adjacent to]`...
 
 - periportal
 - peri-gallbladder (gallbladder fossa)
@@ -85,7 +86,9 @@ region, likely a focal fat sparing. (ref: [rID-6852](https://doi.org/10.53347/rI
 
 **IMPRESSION:** 
 
-- `[Mild | Moderate | Severe]` degree fatty liver disease without focal lesion 
+- `[Mild | Moderate | Severe]` fatty liver disease without focal lesion.
+- `[Mild | Moderate | Severe]` fatty liver disease with focal fat sparing adjacent to ___. No gross mass.
+
 
 ### Cirrhosis
 
