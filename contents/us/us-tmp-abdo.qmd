@@ -210,7 +210,7 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 ### Extrarenal pelvis
 
--   Extrarenal pelvis was seen.
+-   `[Left | Right]` extrarenal pelvis was seen.
 
 -   hypoechoic mass just outside the renal sinus without calyceal system dilatation, consistent with extrarenal pelvis.
 
