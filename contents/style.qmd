@@ -20,26 +20,6 @@ A general style guide for constructing radiology report in English.
 -   `object, measuring ___ unit`: e.g.
     -   **Left kidney:** Normal size and parenchymal echogenicity, measuring about 11.6 x 5.0 x 4.2 cm. 
 
-
-## Uncertain amount
-
--   `[a few | several | innumerable]` + pleural countable n. (e.g., a few cysts)
-
--   `[small | large]` amount of + uncountable n. (e.g., small amount of free fluid)
-
-## Uncertain measurement
-
--   `about ...`: measuring about 3 cm.
-
--   `size up to ...`: size up to 1 cm.
-
--   `ranging from ? - ?`: ranging from 0.4-1.0 cm.
-
--   ___ lesion of `vary in size`
-
-**Note:** abbreviation of unit *do not* requires period (e.g., `cm`, `mm`, `ml`).
-
-
 ## Size Change
 
 **Full**
@@ -53,6 +33,28 @@ A general style guide for constructing radiology report in English.
 -   🤔 size ___, unchanged.
 
 
+## Uncertain
+
+### Uncertain amount
+
+-   `[a few | several | innumerable]` + pleural countable n. (e.g., a few cysts)
+
+-   `[small | large]` amount of + uncountable n. (e.g., small amount of free fluid)
+
+### Uncertain measurement
+
+-   `about ...`: measuring about 3 cm.
+
+-   `size up to ...`: size up to 1 cm.
+
+-   `ranging from ? - ?`: ranging from 0.4-1.0 cm.
+
+-   ___ lesion of `vary in size`
+
+**Note:** abbreviation of unit *do not* requires period (e.g., `cm`, `mm`, `ml`).
+
+
+
 ## New Lesion
 
 -   A new ?-cm 🤔 at ⛰
@@ -62,11 +64,35 @@ A general style guide for constructing radiology report in English.
 -   🤔 are seen, measuring about ___
 
 
+##  Seen on
+
+-   A seen best in/on ___ view.
+
+##  Not seen
+
+-   `without demonstrable cause of` ___. (e.g., w/o demonstrable cause of obstruction)
+
+-   `without evidence of` ___. (e.g., GS w/o without evidence of cholecystitis)
+
+-   There is `no evidence of` A.
+
+-   `No demonstrated` ___. (e.g., No demonstrated caliceal stone at both kidneys)
+
+
 ## The rest is OK
 
 -   Otherwise, unremarkable
 -   The remainder of ... is/are unremarkable.
--   No demonstrable ... 
+
+## Limited evaluation
+
+**Ultrasound study**
+
+`Limited evaluation` due to ...
+
+-   patient's condition
+-   high liver position
+-   overlying bowel gas
 
 ## DDx
 
@@ -77,7 +103,6 @@ A general style guide for constructing radiology report in English.
 -   `[consistent | compatible]` with A
 -   `[suggesting | suggestive]` of A
 
-
 -   likely A
 -   most likely representing A
 
@@ -85,33 +110,6 @@ A general style guide for constructing radiology report in English.
 
 -   `[probably = possibly > could be]` A, B, or C
 
-**Not found**
-
--   There is no evidence of A.
-
--   ___ without evidence of A.
-
--   No demonstrated ___
-
-##  Seen on
-
--   A seen best in/on ___ view.
-
-## Not seen cause
-
--   (+) without demonstrable cause of ___.
-
-## Limited evaluation
-
-**Ultrasound study**
-
-`Limited evaluation` due to ...
-
--   patient's condition
-
--   high liver position
-
--   overlying bowel gas
 
 
 ## Suggestion
