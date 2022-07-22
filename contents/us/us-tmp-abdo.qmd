@@ -84,7 +84,7 @@
 
 - **Severe:** Normal size with (diffusely) increased parenchymal echogenicity of the liver, causing imparied visualization of intrahepatic vasculature and **right hemidiaphragm**,
 
-... compatible with `[mild | moderate | severe]` fatty liver disease.
+... compatible with `[mild | moderate | severe]` fatty liver.
 
 **(Focal fat sparing):** + Geographic hypoechoic areas `[at | adjacent to]`...
 
@@ -96,8 +96,8 @@ region, likely a focal fat sparing. (ref: [rID-6852](https://doi.org/10.53347/rI
 
 **IMPRESSION:** 
 
-- `[Mild | Moderate | Severe]` fatty liver disease without focal lesion.
-- `[Mild | Moderate | Severe]` fatty liver disease with focal fat sparing adjacent to ___. No gross mass.
+- `[Mild | Moderate | Severe]` fatty liver without focal lesion.
+- `[Mild | Moderate | Severe]` fatty liver with focal fat sparing adjacent to ___. No gross mass.
 
 
 ### Cirrhosis
