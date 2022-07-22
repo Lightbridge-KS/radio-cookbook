@@ -55,7 +55,9 @@ A general style guide for constructing radiology report in English.
 
 ## New Lesion
 
--   Newly seen a 🤔 at ⛰, ... 
+-   A new ?-cm 🤔 at ⛰
+
+-   Newly seen a 🤔 at ⛰
 
 -   🤔 are seen, measuring about ___
 

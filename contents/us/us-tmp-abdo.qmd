@@ -66,6 +66,16 @@
 -  NAFLD; surveillance.
 -  Chronic HBV infection; HCC surveillance.
 
+### Parenchymatous Dz
+
+**Increase Echo or Coarse**
+
+-  **Liver:** Normal size and (mildly/slightly) `[increased | coarse]` parenchymal echogenicity. No focal sesion.
+
+**IMPRESSION:**
+
+-   (Mild) Parenchymatous disease of the liver without focal lesion.
+
 ### Fatty Liver
 
 - **Mild:** Normal size with mildly increased parenchymal echogenicity of the liver,
@@ -154,6 +164,27 @@ adenomyomatosis at ___ of the gallbladder. No stone.
 
 ## Renal Findings
 
+### Parenchymatous Dz
+
+Increased echo only => parenchymatous dz.
+
+- **Kidneys:** `[Normal | Small]` size and (mildly) increased parenchymal echogenicity of ___ kidney.
+
+**IMPRESSION:**
+
+-   Parenchymatous disease of ___ kidney.
+
+
+### CKD
+
+Increased echo + small size => *chronic* parenchymatous dz.
+
+- **Kidneys:** Small size ___ kidney, measuring ?x?x? cm, with thinning of cortex, measuring 0.? cm, and increased parenchymal echogenicity. 
+
+**IMPRESSION:**
+
+- Chronic parenchymatous disease of ___ kidney.
+
 ### Renal Stone
 
 **Calcified vessel:** Hyperechoic foci at ___, probably calcified vessels or non-obstructive calyceal stone.
@@ -207,13 +238,7 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 - Parenchymatous kidney disease and innumerable cysts in both kidneys, some cysts have hyperechoic content, thin septation and/or calcified walls.
 
-### CKD
 
-- **Kidneys:** Small size ___ kidney, measuring ?x?x? cm, with thinning of cortex, measuring 0.? cm, and increased parenchymal echogenicity. 
-
-**IMPRESSION:**
-
-- Chronic parenchymatous disease of ___ kidney.
 
 ### Nephrectomy
 
@@ -264,10 +289,10 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 ### Prostate
 
-#### Prominent prostate (> 25 ml)
+#### Prominent prostate (25 - 40 ml)
 
--   **Prostate gland:** Prominent size, measuring ___ ml in volume.
+-   **Prostate gland:** `[Prominent size | Mild enlargement]`, measuring ___ ml in volume.
 
 **IMPRESSION:** 
 
--   Prominent size of the prostate gland.
+-   `[Prominent size | Mild enlargement]` of prostate gland.
