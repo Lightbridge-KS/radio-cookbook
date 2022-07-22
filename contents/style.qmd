@@ -35,7 +35,10 @@ A general style guide for constructing radiology report in English.
 
 -   `ranging from ? - ?`: ranging from 0.4-1.0 cm.
 
+-   ___ lesion of `vary in size`
+
 **Note:** abbreviation of unit *do not* requires period (e.g., `cm`, `mm`, `ml`).
+
 
 ## Size Change
 
@@ -95,6 +98,19 @@ A general style guide for constructing radiology report in English.
 ## Not seen cause
 
 -   (+) without demonstrable cause of ___.
+
+## Limited evaluation
+
+**Ultrasound study**
+
+`Limited evaluation` due to ...
+
+-   patient's condition
+
+-   high liver position
+
+-   overlying bowel gas
+
 
 ## Suggestion
 

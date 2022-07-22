@@ -121,13 +121,27 @@ adenomyomatosis at ___ of the gallbladder. No stone.
 (Ref: [radiopedia](https://doi.org/10.53347/rID-7056))
 
 
-### Gall Stone
+### Gallstone
+
 
 **Gallbladder:** A ???-cm gallstone. No gallbladder wall thickening or pericholecystic fluid.
 
 **IMPRESSION:** 
 
 - A ???-cm gallstone without evidence of cholecystitis 
+
+
+### Bile sludge
+
+**Gallbladder:** Distended gallbladder containing bile sludge. No gallbladder wall thickening or pericholecystic fluid. No stone or mass.
+
+**IMPRESSION:**
+
+- Bile sludge in gallbladder without evidence of cholecystitis
+
+### Post-cholecystectomy
+
+- **Gallbladder:** Surgically absent gallbladder.
 
 
 ### Dilate CBD
@@ -137,9 +151,6 @@ adenomyomatosis at ___ of the gallbladder. No stone.
 
 - **(Not seen cause):** + without demonstrable cause of obstruction. No intrahepatic ductal dilatation. 
 
-### Post-cholecystectomy
-
-- **Gallbladder:** Surgically absent gallbladder.
 
 ## Renal Findings
 
@@ -219,6 +230,14 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 ### Renal Scar
 
 - **Renal cortical defect**: Focal cortical scar at ___ pole of the ___ kidney. ([ref](https://radiopaedia.org/articles/renal-cortical-defect))
+
+### Renal AML
+
+-   **Kidneys:** A ?-cm *hyperechoic lesion* at ___.
+
+**IMPRESSION:**
+
+-   A ?-cm hyperechoic lesion at ___, possibly angiomyolipoma.
 
 ## Bladder Findings
 
