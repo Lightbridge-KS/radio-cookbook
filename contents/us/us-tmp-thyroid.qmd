@@ -74,5 +74,5 @@
 
 **IMPRESSION:** 
 
-- A ?x?x?-cm ... nodule with ... calcifications at ... thyroid lobe, (TI-RADS=?). (FNA is suggested ?)
+- A ?x?x?-cm ... nodule with ... calcifications at ... thyroid lobe, ([TI-RADS](https://www.acr.org/Clinical-Resources/Reporting-and-Data-Systems/TI-RADS)=?). (FNA is suggested ?)
 - No cervical lymphadenopathy.
