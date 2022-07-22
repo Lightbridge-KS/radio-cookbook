@@ -70,6 +70,9 @@ Abnormal
   cbd = "
 * < 0.6 cm (< 0.9 for post-cholecystectomy)
 * Age \\> 60 yrs can dilate 0.1 cm / 10 yrs
+",
+  pancreas = "
+* Main pancreatic duct diameter < 3 mm.  
 "
 )
 ```
@@ -89,6 +92,7 @@ us_nl_tbl <- dplyr::tribble(
   "Liver", us_nl$liver,
   "Gallbladder", us_nl$gb,
   "CBD", us_nl$cbd,
+  "Pancreas", us_nl$pancreas,
   # Vessel
   "Veins", us_nl$veins,
   "Aorta",  us_nl$aorta, 
@@ -103,11 +107,11 @@ render_gt_us_nl_tbl <- function() {
   # Row Groups
   tab_row_group(
     label = "Vessel",
-    rows = 9:10
+    rows = 10:11
   ) %>% 
   tab_row_group(
     label = "HBP",
-    rows = 6:8
+    rows = 6:9
   ) %>% 
   tab_row_group(
     label = "Repro",
