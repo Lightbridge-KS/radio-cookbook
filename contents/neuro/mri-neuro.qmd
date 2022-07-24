@@ -23,8 +23,8 @@ txt_mri <- list(
 )
 ```
 
-```{r}
-tibble::tribble(
+```{r mri_blood_sig_gt}
+mri_blood_sig_gt <- tibble::tribble(
    ~Hemorrhage, ~Time, ~T1, ~T2,
     "Hyperacute", "\\< 12 hr", txt_mri$iso, txt_mri$bright,
     "Acute", "12 hr - 2 days",  txt_mri$iso, txt_mri$dark,
@@ -45,4 +45,6 @@ tibble::tribble(
                  cell_fill(color = "lightgrey")),
     locations = cells_column_labels()
   )
+
+mri_blood_sig_gt
 ```
