@@ -266,6 +266,10 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 ## Bladder Findings
 
+### Foley
+
+**Bladder:** Collapsed urinary bladder with retained Foley catheter. No stone or mass.
+
 ### Residual Urine
 
 **Bladder:** [small | moderate | large] amount of post-voided residual urine.
