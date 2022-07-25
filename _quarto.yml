@@ -17,6 +17,7 @@ book:
     - part: "ER"
       chapters:
       - contents/er/contrast.qmd
+      - contents/er/stroke-fast.qmd
     - part: "Ultrasound"
       chapters:
       - contents/us/us-q-ref.qmd
