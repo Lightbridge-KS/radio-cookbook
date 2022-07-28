@@ -114,11 +114,13 @@ A general style guide for constructing radiology report in English.
 
 ## Suggestion
 
--   (+) follow-up is advised.
+-   (+) Follow-up is advised.
 
--   (+) please correlate with clinical findings.
+-   (+) Please correlate with clinical findings.
 
--   (+) further (evaluation by) ... is recommended.
+-   (+) Further (evaluation by) ... is recommended.
+
+-   (+) Further dedicated contrasted CT/MRI is advised for characterization. 
 
 
 ## Describe Focal Lesions
