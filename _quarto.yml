@@ -28,6 +28,9 @@ book:
     - part: "Neuro"
       chapters:
       - contents/neuro/mri-neuro.qmd
+    - part: "CVS"
+      chapters: 
+      - contents/cvs/cvs-temp-doppler.qmd
       
     - bibliography.qmd
 
