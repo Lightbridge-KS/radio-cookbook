@@ -102,7 +102,7 @@ region, likely a focal fat sparing. (ref: [rID-6852](https://doi.org/10.53347/rI
 
 ### Cirrhosis
 
-- **Liver:** `[Normal size | Enlarged caudate lobe]` with diffusely coarse parenchymal echogenicity and surface nodularity. No focal lesion. Portal vein enlarged, measuring ___ cm.
+- **Liver:** `[Normal size | Enlarged caudate lobe]` with diffusely coarsen parenchymal echogenicity and surface nodularity. No focal lesion. Portal vein enlarged, measuring ___ cm.
 
 - **Spleen:** Spleenomegaly ?. No focal lesion.
 
@@ -156,8 +156,11 @@ adenomyomatosis at ___ of the gallbladder. No stone.
 
 ### Cholecystostomy
 
-- **Gallbladder:** Collapsed gallbladder. Cholecystostomy catheter in the GB.
+**Gallbladder:** Collapsed gallbladder with retained cholecystostomy tube. No stone.
 
+**IMPRESSION:** 
+
+- Proper position of cholecystosmy tube within collapsed gallbladder.
 
 ### Dilate CBD
 
@@ -166,6 +169,19 @@ adenomyomatosis at ___ of the gallbladder. No stone.
 
 - **(Not seen cause):** + without demonstrable cause of obstruction. No intrahepatic ductal dilatation. 
 
+
+
+
+
+## Pancreas Findings
+
+### No Acute Pancreatitis
+
+**Pancreas:** Normal size of the visualized portion without detectable pancreatic ductal dilatation or peripancreatic fluid collection. No focal lesion. 
+
+**IMPRESSION:**
+
+-   No sonographic evidence of acute pancreatitis or peripancreatic fluid collection. 
 
 ## Renal Findings
 
@@ -196,6 +212,9 @@ Increased echo + small size => *chronic* parenchymatous dz.
 
 
 **Non-obs, caliceal stone:** Normal size and parenchymal echogenicity of both kidneys. Non-obstructing caliceal stones at ?? pole of ?? kidney, measuring ___. No solid mass.
+
+
+**Staghorn stone:** Multiple ___ caliceal stones, up to ?? cm, probably staghorn stones.
 
 
 ### Renal Hydronephrosis
@@ -271,9 +290,10 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 ## Bladder Findings
 
+
 ### Foley
 
-**Bladder:** Collapsed urinary bladder with retained Foley catheter. No stone or mass.
+**Bladder:** `[Collapsed | Partially distended]` urinary bladder with retained Foley catheter. No stone or mass.
 
 ### Residual Urine
 
@@ -282,6 +302,23 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 ### Neobladder
 
 **Bladder:** Surgically absent. The neobladder appears unremarkable. No mass.
+
+### Wall thickening (Collapsed)
+
+**Bladder:** `[Collapsed | Partially distended]` urinary bladder. Mild wall thickening. No stone or mass. 
+
+**IMPRESSION:**
+
+- Bladder wall thickening; probably due to partial distension or cystitis. Please correlate with UA and clinical context.
+
+
+### Hyperechoic Lesion
+
+**Bladder:** An __ hyperechoic lesion at ___ aspect of urinary bladder wall.
+
+**IMPRESSION:**
+
+-  An __ hyperechoic lesion at ___ aspect of urinary bladder wall. Please correlate with cystoscope.
 
 ## Repro Findings
 
@@ -305,3 +342,29 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 **IMPRESSION:** 
 
 -   `[Prominent size | Mild enlargement]` of prostate gland.
+
+## Free Fluid
+
+### Ascites
+
+**Peritoneum:** `[Small | Moderate | Large]` amount of free fluid at 
+
+-   (+) subhepatic
+-   (+) perihepatic
+-   (+) perisplenic
+-   (+) bilateral paracolic gutters
+-   (+) pelvic cavity
+
+regions
+
+**IMPRESSION:**
+
+- `[Small | Moderate | Large]` amount of ascites.
+
+### Pleural effusion
+
+**Others:** Partially seen bilateral pleural effusions.
+
+**IMPRESSION:**
+
+-   Presence of bilateral pleural effusion.
