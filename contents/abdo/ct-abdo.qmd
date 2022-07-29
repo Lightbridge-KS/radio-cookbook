@@ -1,0 +1,105 @@
+# Abdomen CT
+
+**Reference:**
+
+-   CT Abdomen & Pelvis (YouTube) [@YouTube-CT-AbdoPelvis-Approch]
+
+
+
+## Steps
+
+1.  [**General axial scan**]{.blue}
+
+2.  [**Free intraperitoneal gas or fluid**]{.blue} ? 
+
+    -   **Gas:** (use wide window) see whether gas in bowel ?
+
+    -   **Fluid:** see free fluid in dependent areas (hepatorenal, perihepatic, pelvis, etc.)
+
+3.  (Scroll down): [**Assess Organs**]{.blue}
+
+    -   **Liver / GB:** focal lesion, duct dilatation 
+    -   **Pancreas:** duct dilatation
+    -   **Spleen**
+    -   **Adrenals**
+    -   **Kidneys:** hydronephrosis, follow ureter down to..
+    -   **Bladder:**  
+
+4.  (Scroll up): [**Glutter**]{.blue}
+
+    -   **Lt paracolic glutter:** greater omentum
+    -   **Rt paracolic glutter:** morrison pouch, subphrenic space
+
+5.  [**Bowel**]{.blue}
+
+    -   **Esophagus** → **Stomach**
+    -   **Small bowel:** (duodenum 1st - 4th) left → right "sweep"
+    -   **Colon:** 
+        -   anus → rectum → sigmoid
+        -   desc.colon → splenic.flex → TV → hep.flex → asc.colon
+        -   cecum → terminal illeum 
+        -   Appendix 
+
+## Esophagus
+
+## Bowel
+
+-   **Diameter:** small bowel < `3 cm`, large bowel < `6 cm`, cecum < `9 cm`
+
+::: {.callout-warning appearance="default"}
+
+Characteristic is more important than size, e.g., proximal distend, distal collapse, with **transition zone** suggests **gut obstruction**.
+:::
+
+
+
+## Biliary
+
+-   **CBD:** diameter < `6 mm` (if age > 60 yr, can dilate 1 mm / yrs)
+
+## Pancreas
+
+-  Pancreatic duct diameter < `3 mm`
+
+## Spleen
+
+-  Max diameter (axial or coronal) < `12 cm`
+
+## Adrenal gland
+
+![Adrenal gland (CT axial)](../../img/abdo/adrenal-axial-ct.png){#fig-adrenal-axial-ct width="30%"}
+
+-  Thickness < `1 cm`
+
+-  Concave margins (look for convexity, e.g., nodules)
+
+
+## Renal
+
+### Renal protocol CT
+
+-   **Corticomedullary phase:** mostly **cortex** enhanced
+
+-   **Nephrographic phase:** mostly **kidney parenchyma** enhanced
+
+-   **Delayed phase:** see **collecting systems**
+
+### Pyelonephritis 
+
+See **Striated nephrogram** [@fig-pyelonephritis-ct]
+
+![Rt Pyelonephritis CT](../../img/abdo/pyelonephritis-ct.png){#fig-pyelonephritis-ct width="50%"}
+
+
+## Lymphnodes (Abdomen)
+
+### Normal LN
+
+**Diameter:** approx. < `1 cm` in short axis, **oval-shaped**
+
+### Abnormal LN
+
+-   Shape: Rounded
+-   Heterogeneous / Cystic change
+
+

@@ -2,8 +2,17 @@
     color: red;
 }
 
+.maroon {
+    color: rgb(161, 5, 5);
+}
+
 .blue {
-    color: blue;
+    color: rgb(35, 55, 154);
+}
+
+/* Highlight */
+.hl {
+    background-color: yellow;
 }
 
 /* Heading 2 */

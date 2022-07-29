@@ -28,6 +28,9 @@ book:
       - contents/us/us-tmp-abdo.qmd
       - contents/us/us-tmp-thyroid.qmd
       - contents/us/us-tmp-scrotum.qmd
+    - part: "Abdomen"
+      chapters:
+      - contents/abdo/ct-abdo.qmd
     - part: "Neuro"
       chapters:
       - contents/neuro/mri-neuro.qmd

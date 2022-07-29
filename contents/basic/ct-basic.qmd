@@ -17,5 +17,5 @@
 ![Fat stranding](../../img/basic/fat-stranding-and-differentials-diagram.jpg){#fig-fat-stranding width="60%"}
 
 
-**Fat stranding:** increase density (dirty) around fat dueto increase fluid / soft tissue from inflammation [@fig-fat-stranding]
+**Fat stranding:** increase density (dirty) around fat dueto increase fluid / soft tissue from inflammation [@fig-fat-stranding] ([ref](https://doi.org/10.53347/rID-47438))
 
