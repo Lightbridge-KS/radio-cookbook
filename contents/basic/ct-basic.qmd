@@ -1,0 +1,11 @@
+# CT Basic
+
+## Density
+
+![Hounsfield scale ([ref](https://doi.org/10.53347/rID-77397))](../../img/basic/hounsfield-scale-diagram.jpg){#fig-hounsfield-scale-diagram width="60%"}
+
+::: {.callout-tip appearance="simple"}
+
+
+**Air** (`- 1000`) < **Fat** (`-100`) < **Water** (`0`) < **Soft tissue** (`+50`) < **Bone & Metal** (`1000`)
+:::
