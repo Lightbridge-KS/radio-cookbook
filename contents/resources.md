@@ -7,7 +7,7 @@
 
 ## CT
 
--   [Labelled CT Anatomy](https://radiopaedia.org/articles/62414): by body region and modality.
+-   [Labelled Imaging Anatomy](https://radiopaedia.org/articles/62414): Plain film / CT / MRI by body region and modality.
 
 
 ## Society
