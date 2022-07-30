@@ -90,6 +90,9 @@ See **Striated nephrogram** [@fig-pyelonephritis-ct]
 
 ![Rt Pyelonephritis CT](../../img/abdo/pyelonephritis-ct.png){#fig-pyelonephritis-ct width="50%"}
 
+### Hydroureter
+
+-   Ureter diameter > `3 mm` ([ref](https://radiopaedia.org/articles/66051))
 
 ## Lymphnodes (Abdomen)
 
