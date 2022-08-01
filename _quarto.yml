@@ -31,6 +31,9 @@ book:
     - part: "Abdomen"
       chapters:
       - contents/abdo/ct-abdo.qmd
+    - part: "Chest"
+      chapters: 
+      - contents/chest/chest-tmp-cxr.qmd
     - part: "Neuro"
       chapters:
       - contents/neuro/mri-neuro.qmd
