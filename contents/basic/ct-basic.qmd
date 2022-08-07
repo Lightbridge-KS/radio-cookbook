@@ -10,6 +10,14 @@
 **Air** (`- 1000`) < **Fat** (`-100`) < **Water** (`0`) < **Soft tissue** (`+50`) < **Bone & Metal** (`1000`)
 :::
 
+**Blood**
+
+-   Flowing blood ≈ `40 HU`
+
+-   Clotted blood ≈ `100 HU`
+
+
+**Abdomen**
 
 -   Normally, Liver dense > spleen, if not suspect fatty liver.
 

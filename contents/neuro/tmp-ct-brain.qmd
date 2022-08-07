@@ -1,0 +1,19 @@
+# CT Brain Template
+
+## Cerebral parenchyma
+
+### Normal
+
+The study reveals normal brain volume. The rest of brain parenchyma appears unremarkable.
+
+### Brain Vol. loss
+
+The study reveals:
+
+diffuse brain volume loss, 
+
+    -   `appropriate for age`
+    -   `advanced more than age`
+
+with normal gray-white differentiation of the brain parenchyma.
+    

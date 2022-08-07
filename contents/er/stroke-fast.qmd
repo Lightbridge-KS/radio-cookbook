@@ -11,6 +11,10 @@
 -   **Arterial occlusion ?**  (Site ?, Thrombus lenght ?)
 :::
 
+## Links
+
+-   [Ischemic stroke (radiopedia)](https://radiopaedia.org/articles/13437)
+
 ## Guildline
 
 ![Acute Stroke Imaging Guideline [@RadRAMA-ER-Handbook]](../../img/er/stroke-img-guideline-radrama.png){#fig-stroke-img-guideline-radrama width="100%"}
