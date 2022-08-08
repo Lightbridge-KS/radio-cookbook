@@ -32,6 +32,11 @@ A general style guide for constructing radiology report in English.
 
 -   🤔 size ___, unchanged.
 
+**Previous comparison**
+
+-   measuring 🤔 cm (from ? cm) 
+
+-   measuring 🤔 cm (previously ? cm) 
 
 ## Uncertain
 
@@ -110,7 +115,11 @@ A general style guide for constructing radiology report in English.
 
 -   `[probably = possibly > could be]` A, B, or C
 
+## IMP Tricks
 
+**IMPRESSION:**
+
+**Won't describe:** _____ as mentioned above.
 
 ## Suggestion
 
@@ -150,3 +159,12 @@ A general style guide for constructing radiology report in English.
 
 -   **Echogenicity | Density** (+ enhancement)
 
+## Many Items Tricks
+
+`Multi-subj` + `Verb`
+
+**Ex:**
+
+The findings about `A` **with** (associated) `B`, `C`, **and** `D`, **as well as** `E` 
+
+in this report was ...

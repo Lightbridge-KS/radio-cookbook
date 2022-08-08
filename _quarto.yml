@@ -37,6 +37,8 @@ book:
     - part: "Neuro"
       chapters:
       - contents/neuro/mri-neuro.qmd
+      - contents/neuro/tmp-ct-brain-loc.qmd
+      - contents/neuro/tmp-ct-brain-lesion.qmd
     - part: "CVS"
       chapters: 
       - contents/cvs/cvs-temp-doppler.qmd
