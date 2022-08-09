@@ -343,6 +343,15 @@ See [nice illustrations](https://doi.org/10.53347/rID-20989).
 
 -   `[Prominent size | Mild enlargement]` of prostate gland.
 
+#### Enlarged prostate
+
+-   **Prostate gland:** (Markedly) enlarged prostate gland with intravesical indentation, measuring 100 ml in volume.
+
+**IMPRESSION:** 
+
+-   (Marked) enlarge prostate gland with intravesical indentation.
+
+
 ## Free Fluid
 
 ### Ascites
