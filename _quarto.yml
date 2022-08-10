@@ -21,6 +21,13 @@ book:
       chapters:
       - contents/er/contrast.qmd
       - contents/er/stroke-fast.qmd
+      - contents/er/trauma.qmd
+    - part: "Neuro"
+      chapters:
+      - contents/neuro/neuro-anatomy.qmd
+      - contents/neuro/mri-neuro.qmd
+      - contents/neuro/tmp-ct-brain-loc.qmd
+      - contents/neuro/tmp-ct-brain-lesion.qmd
     - part: "Ultrasound"
       chapters:
       - contents/us/us-q-ref.qmd
@@ -34,11 +41,6 @@ book:
     - part: "Chest"
       chapters: 
       - contents/chest/chest-tmp-cxr.qmd
-    - part: "Neuro"
-      chapters:
-      - contents/neuro/mri-neuro.qmd
-      - contents/neuro/tmp-ct-brain-loc.qmd
-      - contents/neuro/tmp-ct-brain-lesion.qmd
     - part: "CVS"
       chapters: 
       - contents/cvs/cvs-temp-doppler.qmd

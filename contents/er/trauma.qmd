@@ -1,0 +1,16 @@
+# Trauma
+
+## C-Spine Trauma
+
+[**NEXUS Criterior**]{.maroon}
+
+Trauma patients **do not** require cervical spine imaging if:
+
+-   Alert and Stable
+-   No AOC
+-   No focal neurological deficit
+-   Not Intoxicated
+-   No midline spinal tenderness
+-   no distracting injury
+
+([radiopedia](https://radiopaedia.org/articles/54089))
