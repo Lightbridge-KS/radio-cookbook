@@ -24,17 +24,40 @@ identified.
 
 likely chronic lacunar infarctions.
 
+### Small VV dz
+
+(Mild) patchy hypodense changes involving at
+
+-   `[lt | rt | bilat]` corona radiata
+-   periventricular white matter of {lobe}
+
+**IMPRESSION:** 
+
+-   (Mild) degree of small vessel disease.
+
+### Chronic Infarction
+
+A wedge-shaped hypodense lesion at ___, 
+
+likely chronic infarction of the ___ artery territory. 
+
+
 ## Hemorrhage
 
 ### SDH
 
-There is development of 
+`[There is development of | New]`
 
 -   (+) `[Acute | Subacute | Chronic]` (on chronic) subdural hematoma (SDH) along `[left | right]` ___ convexity, measuring up to ?? cm in **maximal thickness**.
+
+
+-   (+) crescent-shaped `[isodense | hyperdense]` lesion along ___ convexity, about ?? cm in maximal thickness; likely representing `[Acute | Subacute | Chronic]` (on chronic) subdural hematoma (SDH).
 
 **IMPRESSION:** 
 
 - `[Increased | decreased]` thickness of __ subdural hematoma (SDH) along __.
+
+-  Thin (? mm) `[Acute | Subacute | Chronic]` SDH along ___.
 
 ### SAH
 
@@ -79,6 +102,15 @@ Pressure effect `[causing | is seen as]` ...
 **IMPRESSION:** 
 
 -   `Increased` pressure effects are seen as 
+
+## Calcification
+
+(Dense) calcification(s) `[at | along]`
+
+-   `[bilateral]` globus pallidus.
+-   falx cerebri
+
+(is noted.)
 
 
 ## Chronic lesion
