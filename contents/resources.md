@@ -9,6 +9,8 @@
 
 -   [Labelled Imaging Anatomy](https://radiopaedia.org/articles/62414): Plain film / CT / MRI by body region and modality.
 
+-   [Normal CTA Head & Neck](https://bit.ly/CTAnormal): claripacs
+
 ## Learning Resources
 
 -   [Top 10 Reading List](https://pubs.rsna.org/page/radiographics/rgteam/top10Home): by radiographics
